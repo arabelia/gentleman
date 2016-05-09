@@ -29,7 +29,16 @@ body{color: #333;}
 .espaciado a{top: 50px; position: absolute; margin-left: 50%; left: -50px;}
 .direccionamiento {padding: 15px;}
 .direccionamiento a{text-decoration: none; color:  #E60054;}
+.direccionamiento img{width: 80px; -webkit-filter: grayscale(100%);filter: grayscale(100%);}
 .lista h1{padding:2px 20px; }
 
+.clientes p:first-child{padding: 4px;}
+.clientes p:nth-child(3){font-size: 25px; display: inline-block;}
+.clientes p:nth-child(4){ display: inline-block;}
+
+.coma{font-size: 30px; display: inline-block;}
 .redes span{font-family: Open Sans; font-size: 18px; font-weight: bold}
 .red { width: 25px; height: 25px; border-radius: 15px;  border: 1px dashed #A49696; display: inline-block; text-align: center;}
+.twiter p{padding: 4px; font-weight: 200;}
+.Addres p{padding: 4px; font-weight: 200;}
+.email p{padding: 4px; font-weight: 200;}

@@ -5,6 +5,7 @@
 .t-blanco{color: #fff;}
 .t-gris{color: #333;}
 .t-gris-claro{color: #A49696;}
+.t-purple{color: #E60054;}
 .sin-estilo{margin: 0; padding: 0; list-style: none;}
 .texto9{font-size: 9px;}
 .texto10{font-size: 10px;}
@@ -15,6 +16,9 @@
 .t-dosis{font-family: Dosis;}
 .t-open{font-family: Open+Sans;}
 .centrado{text-align: center;}
-.borde-inf{border-style: 2px dotted #333;}
+.borde-inf{border-bottom: 1px dotted #E7E2E2;}
+.borde-inf2{border-bottom: 1px dotted #6A6868;}
 .times{font-family: Times;}
+
 .en-linea{display: inline-block; float: right;}
+.espacio20{padding: 20px 0;}
