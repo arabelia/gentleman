@@ -1,4 +1,4 @@
-*{outline:1px solid rgba(255,0,0,0.3);}
+/**/
 body{color: #333;}
 
 .menu{float: right; margin-top: 15px;}
@@ -7,11 +7,12 @@ body{color: #333;}
 .menu a:hover{color: #E60054;}
 .nombre {font-size: 25px;}
 .nombre span{font-family: Open Sans; font-size: 36px; font-weight: bold}
-.portada{padding: 20px;}
+.portada{padding: 40px;}
 .portada div {height: 400px;}
 .portada p{padding-bottom: 15px;}
 .img-portada{background-image: url("../img/header.png"); }
 
+.lista{padding-top: 30px;}
 .submenu li{display: inline-block;}
 .submenu a{padding: 3px 8px;  text-decoration: none;}
 .submenu a:hover{font-weight: bold;}
@@ -19,6 +20,7 @@ body{color: #333;}
 .articulo li{width: 340px; display: inline-block; height: 250px; margin: 5px;}
 .articulo img{width: 100%;}
 .articulo a{text-decoration: none; color: #333; font-weight: bold;}
+.titulo{display: inline-block;}
 
 
 .boton1 {text-decoration: none; font-size: 10px, color:#fff; padding: 4px 8px; background: #AEB6B7; border-radius: 10px; margin-top: 50px;}
@@ -27,6 +29,7 @@ body{color: #333;}
 .espaciado a{top: 50px; position: absolute; margin-left: 50%; left: -50px;}
 .direccionamiento {padding: 15px;}
 .direccionamiento a{text-decoration: none; color:  #E60054;}
-.lista{padding:2px 20px; }
+.lista h1{padding:2px 20px; }
 
-
+.redes span{font-family: Open Sans; font-size: 18px; font-weight: bold}
+.red { width: 25px; height: 25px; border-radius: 15px;  border: 1px dashed #A49696; display: inline-block; text-align: center;}
