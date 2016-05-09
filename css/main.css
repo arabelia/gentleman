@@ -1,0 +1,32 @@
+*{outline:1px solid rgba(255,0,0,0.3);}
+body{color: #333;}
+
+.menu{float: right; margin-top: 15px;}
+.menu li{display: inline-block;}
+.menu a{padding: 3px 8px; color: #fff; text-decoration: none;}
+.menu a:hover{color: #E60054;}
+.nombre {font-size: 25px;}
+.nombre span{font-family: Open Sans; font-size: 36px; font-weight: bold}
+.portada{padding: 20px;}
+.portada div {height: 400px;}
+.portada p{padding-bottom: 15px;}
+.img-portada{background-image: url("../img/header.png"); }
+
+.submenu li{display: inline-block;}
+.submenu a{padding: 3px 8px;  text-decoration: none;}
+.submenu a:hover{font-weight: bold;}
+.lista-articulos{margin: auto;}
+.articulo li{width: 340px; display: inline-block; height: 250px; margin: 5px;}
+.articulo img{width: 100%;}
+.articulo a{text-decoration: none; color: #333; font-weight: bold;}
+
+
+.boton1 {text-decoration: none; font-size: 10px, color:#fff; padding: 4px 8px; background: #AEB6B7; border-radius: 10px; margin-top: 50px;}
+.boton2 {text-decoration: none; font-size: 14px, color:#fff; padding: 8px 16px; background: #717B7C; border-radius: 10px;}
+.espaciado{height: 150px;  position: relative; }
+.espaciado a{top: 50px; position: absolute; margin-left: 50%; left: -50px;}
+.direccionamiento {padding: 15px;}
+.direccionamiento a{text-decoration: none; color:  #E60054;}
+.lista{padding:2px 20px; }
+
+
